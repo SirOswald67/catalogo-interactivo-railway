@@ -45,36 +45,36 @@ async function initDB() {
           'PC / PS5 / Xbox',
           'Action RPG',
           'Explora la Tierra Sombría en una expansión masiva con nuevos jefes, armas y narrativa oscura.',
-          'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80',
+          'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2778580/header.jpg',
           'https://www.youtube.com/embed/qLZenOn7WUo',
-          'https://store.steampowered.com/'
+          'https://store.steampowered.com/app/2778580/'
         ),
         (
           'Cyberpunk 2077: Phantom Liberty',
           'PC / PS5 / Xbox',
           'Sci-Fi RPG',
           'Thriller de espionaje ambientado en el peligroso distrito de Dogtown dentro de Night City.',
-          'https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=800&q=80',
+          'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg',
           'https://www.youtube.com/embed/Ugb80d5lxEM',
-          'https://www.gog.com/'
+          'https://store.steampowered.com/app/2138330/'
         ),
         (
           'The Legend of Zelda: Tears of the Kingdom',
           'Nintendo Switch',
           'Aventura',
           'Aventura épica por los cielos y profundidades de Hyrule con mecánicas de construcción creativa.',
-          'https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=800&q=80',
+          'https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000063714/276a412988e07c4d55a2996c6d38abb408b464413b2dfeb44d2aa460b9f622e1',
           'https://www.youtube.com/embed/uHGShqcAHlQ',
-          'https://www.nintendo.com/'
+          'https://www.nintendo.com/es-mx/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/'
         ),
         (
           'Hollow Knight: Silksong',
           'PC / Consola',
           'Metroidvania',
           'Asciende hasta la cima de un reino embrujado gobernado por la seda y el canto.',
-          'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80',
+          'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg',
           'https://www.youtube.com/embed/pFAknD_9U7c',
-          'https://store.steampowered.com/'
+          'https://store.steampowered.com/app/1030300/'
         )
       `);
       console.log('Datos iniciales insertados correctamente.');
